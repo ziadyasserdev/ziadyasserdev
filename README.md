@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Zeyad%20Yasser&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=.NET%20Backend%20Developer%20|%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
 </p>
-<h1 align="center">Hi 👋, I'm Zeyad Yasser</h1>
+<h1 align="center">Hi 👋, I'm Ziad Yasser</h1>
 <h3 align="center">
 Backend .NET Developer • ASP.NET Core • Clean Architecture • SignalR
 </h3>
