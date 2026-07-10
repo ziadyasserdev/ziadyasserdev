@@ -1,51 +1,91 @@
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Zeyad%20Yasser&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=.NET%20Backend%20Developer%20|%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Zeyad Yasser</h1>
-<h3 align="center">Backend .NET Developer | Software Engineer | Open to Work</h3>
+
+<h3 align="center">
+Backend .NET Developer • ASP.NET Core • Clean Architecture • SignalR
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=.NET+Backend+Developer;ASP.NET+Core+Developer;Clean+Architecture+Enthusiast;RESTful+API+Developer;SignalR+%7C+Real-Time+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=.NET+Backend+Developer;ASP.NET+Core+Developer;Clean+Architecture+Enthusiast;RESTful+API+Developer;SignalR+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziadyasserdev&style=plastic&color=4010B0"/>
+
+<img src="https://komarev.com/ghpvc/?username=ziadyasserdev&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/ziadyasserdev?style=flat&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/ziadyasserdev?style=flat&logo=github"/>
+
 </p>
 
 ---
 
-# <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="35"> About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate – Faculty of Computers & Artificial Intelligence, Benha University.
-- 💼 Passionate Backend .NET Developer specialized in designing scalable and maintainable backend systems.
-- 🏗️ Experienced in building production-ready RESTful APIs using ASP.NET Core.
-- ⚡ Strong knowledge of Clean Architecture, CQRS, Repository Pattern and Unit of Work.
-- 🔥 Passionate about Real-Time Applications using SignalR.
-- 📚 Currently learning Docker, Kubernetes, AWS and CI/CD.
-- 💡 Interested in Software Architecture, Distributed Systems and Performance Optimization.
-- 🚀 Looking for Junior / Backend .NET Developer opportunities.
+```csharp
+public class ZeyadYasser
+{
+    public string Role => ".NET Backend Developer";
+
+    public string[] Technologies =>
+    [
+        "ASP.NET Core",
+        "C#",
+        "Entity Framework Core",
+        "SQL Server",
+        "SignalR",
+        "Redis",
+        "Hangfire",
+        "Clean Architecture",
+        "CQRS",
+        "REST APIs"
+    ];
+
+    public string[] CurrentlyLearning =>
+    [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Microservices"
+    ];
+
+    public string Goal =>
+        "Building scalable backend systems that solve real-world problems.";
+}
+```
+
+- 🎓 Computer Science Graduate — Benha University.
+- 💙 Passionate about designing scalable backend systems.
+- ⚡ Experienced with ASP.NET Core, Clean Architecture & CQRS.
+- 🚀 Interested in Software Architecture & Distributed Systems.
+- 🌱 Currently exploring Docker, Kubernetes, AWS & CI/CD.
+- 💼 Open to Backend .NET Developer opportunities.
 
 ---
 
-# <picture>
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100">
-</picture> Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:ziadyasser.dev@gmail.com">
-<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/ziadyasserdev">
-<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
+<img height="65" src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ziad-yasser-6155b828b">
-<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/>
+<img height="65" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/ziadyasserdev">
+<img height="65" src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
 </a>
 
 </p>
@@ -54,182 +94,229 @@
 
 📧 **ziadyasser.dev@gmail.com**
 
-📱 **+20 103 372 4845**
-
-📍 **Egypt**
+📍 Egypt
 
 </p>
 
 ---
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
+# 🛠️ Tech Stack
 
-## 💻 Backend Development
+### Languages
 
-<p align="left">
+<p>
 
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=dotnet"/>
+<img src="https://skillicons.dev/icons?i=cs"/>
 
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=cs"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver"/>
+<img src="https://skillicons.dev/icons?i=java"/>
 
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=redis"/>
-
-</p>
-
-### Technologies
-
-- ASP.NET Core 8
-- Entity Framework Core
-- ASP.NET Identity
-- JWT Authentication
-- SignalR
-- RESTful APIs
-- Clean Architecture
-- CQRS (MediatR)
-- Repository Pattern
-- Unit of Work
-- FluentValidation
-- AutoMapper
-- Hangfire
-- Serilog
-
----
-
-## 🗄 Databases
-
-<p align="left">
-
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver"/>
-
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=redis"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
 </p>
 
-- SQL Server
-- Redis Cache
-
 ---
 
-## ☁ DevOps & Tools
+### Backend
 
-<p align="left">
+<p>
 
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=dotnet"/>
 
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=redis"/>
 
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=docker"/>
-
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=aws"/>
-
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=postman"/>
-
-<img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
-### Currently Learning
+<p>
 
-- Docker
-- Kubernetes
-- AWS
-- CI/CD
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge"/>
 
----# <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="35"> Featured Projects
+<img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CQRS-MediatR-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SignalR-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hangfire-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FluentValidation-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AutoMapper-orange?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 📚 Library Management System API
+### DevOps & Tools
 
-A production-ready Library Management System built using **ASP.NET Core 8** following **Clean Architecture** and **CQRS** principles.
+<p>
 
-### ✨ Key Features
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
+
+</p>
+
+---# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 📚 Library Management System
+
+Production-ready Library Management System built using **Clean Architecture** and **CQRS**.
+
+### ✨ Highlights
 
 - 📖 Book & Author Management
-- 🏢 Branch & Location Management
-- 📦 Book Copy Tracking
 - 📚 FIFO Reservation Queue
-- 💳 Fine & Fine Payment Management
+- 💳 Fine & Fine Payments
 - 📧 Email Notifications
 - ⏰ Hangfire Background Jobs
-- 🔐 JWT Authentication & Authorization
-- 📄 RESTful APIs
+- 🔐 JWT Authentication
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-`C#` • `ASP.NET Core 8` • `Clean Architecture` • `CQRS (MediatR)` • `Entity Framework Core` • `SQL Server` • `ASP.NET Identity` • `JWT Authentication` • `Hangfire` • `Serilog` • `FluentValidation` • `AutoMapper`
+`ASP.NET Core 8` • `EF Core` • `SQL Server` • `CQRS` • `Hangfire`
 
----
+<br>
+
+<p align="center">
+
+<a href="https://github.com/ziadyasserdev/LibrarymanagementSystem">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 🎓 E-Learning Platform API
 
-A scalable backend for a modern online learning platform built with **ASP.NET Core 8**.
+Modern Learning Platform API designed with **Clean Architecture**.
 
-### ✨ Key Features
+### ✨ Highlights
 
 - 📚 Course Management
 - 🎥 Video Lessons
-- 📖 Sections & Lessons
 - 👨‍🎓 Student Enrollment
-- 📈 Video Progress Tracking
-- ⭐ Featured Courses
-- 🔥 Popular Courses
-- ⚡ Redis Caching
-- ☁ Cloud Storage
+- ⚡ Redis Cache
+- ☁️ Cloud Storage
 - 🚦 Rate Limiting
-- 🔐 Authentication & Authorization
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-`C#` • `ASP.NET Core 8` • `Clean Architecture` • `CQRS (MediatR)` • `Entity Framework Core` • `SQL Server` • `ASP.NET Identity` • `JWT Authentication` • `Redis Cache` • `Cloud Storage` • `RESTful APIs` • `FluentValidation` • `AutoMapper`
+`ASP.NET Core 8` • `Redis` • `EF Core` • `SQL Server`
 
----
+<br>
 
-## 💬 Real-Time Chat Application API
+<p align="center">
 
-A modern real-time chat application powered by **SignalR** with clean architecture.
+<a href="https://github.com/ziadyasserdev/ElearningPlatform">
 
-### ✨ Key Features
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💬 Real-Time Chat API
+
+Real-Time Chat Application powered by **SignalR**.
+
+### ✨ Highlights
 
 - 💬 Private Messaging
-- 👥 Group Chats
-- 🟢 Online / Offline Presence
-- 🔔 Real-Time Notifications
-- 📢 Group Announcements
-- 👮 Group Administration
+- 👥 Group Chat
+- 🟢 Online Presence
+- 🔔 Notifications
+- 📢 Announcement Mode
 - 🔐 JWT Authentication
-- ⚡ High Performance Communication
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-`C#` • `ASP.NET Core 8` • `SignalR` • `Clean Architecture` • `CQRS (MediatR)` • `Entity Framework Core` • `SQL Server` • `ASP.NET Identity` • `JWT Authentication` • `Repository Pattern` • `Unit of Work` • `RESTful APIs` • `FluentValidation`
+`ASP.NET Core 8` • `SignalR` • `EF Core` • `SQL Server`
 
----
+<br>
 
-## 🏥 Assnani – Clinic Management System API
+<p align="center">
 
-A complete Clinic Management System developed as a Graduation Project.
+<a href="https://github.com/ziadyasserdev/RealTimeChatApp">
 
-### ✨ Key Features
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-- 👨‍⚕ Patient Management
-- 🩺 Doctor Management
-- 📅 Appointment Scheduling
-- 📝 Electronic Medical Records
-- 💊 Prescription Management
-- 💳 Stripe Payment Integration
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏥 Assnani Clinic API
+
+Clinic Management System developed as a Graduation Project.
+
+### ✨ Highlights
+
+- 👨‍⚕️ Appointment Scheduling
+- 📋 Electronic Medical Records
+- 💳 Stripe Payment Gateway
 - 📧 Email Notifications
 - 🔐 Role-Based Authorization
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-`C#` • `ASP.NET Core 8` • `Clean Architecture` • `CQRS (MediatR)` • `Entity Framework Core` • `SQL Server` • `ASP.NET Identity` • `JWT Authentication` • `Stripe Payment Gateway` • `Serilog` • `FluentValidation` • `AutoMapper`
+`ASP.NET Core 8` • `EF Core` • `SQL Server` • `Stripe`
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Repository-Coming%20Soon-orange?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🏆 Core Skills
+# 💼 Core Technologies
 
 <p align="center">
 
@@ -237,35 +324,35 @@ A complete Clinic Management System developed as a Graduation Project.
 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Clean%20Architecture-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SignalR-7A3FF2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/CQRS-MediatR-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-0A66C2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Hangfire-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hangfire-FF6600?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
 
----# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
+---# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
 
-<img width="390" src="https://streak-stats.demolab.com?user=ziadyasserdev&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ziadyasserdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=ziadyasserdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ziadyasserdev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -273,7 +360,7 @@ A complete Clinic Management System developed as a Graduation Project.
 
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadyasserdev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadyasserdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -283,7 +370,7 @@ A complete Clinic Management System developed as a Graduation Project.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ziadyasserdev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ziadyasserdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -307,55 +394,40 @@ A complete Clinic Management System developed as a Graduation Project.
 
 </p>
 
-> **⚠️ Important**
->
-> الـSnake مش هيشتغل غير لما تعمل GitHub Action في الريبو. هقولك عليها بعدين، بتاخد دقيقتين.
-
 ---
 
-# 💡 Favorite Quote
+# 💬 Favorite Quote
 
 <p align="center">
 
-> **"Great software isn't just about writing code—it's about designing reliable, scalable systems that make a real impact."**
+> **"I don't just write code — I build scalable, maintainable systems that solve real-world problems."**
 
 </p>
 
 ---
 
-# 🚀 Current Focus
+<div align="center">
 
-- 🔹 Mastering ASP.NET Core
-- 🔹 Software Architecture
-- 🔹 Distributed Systems
-- 🔹 Docker & Kubernetes
-- 🔹 AWS Cloud
-- 🔹 CI/CD Pipelines
-- 🔹 System Design
-- 🔹 Microservices
+### 🤝 Let's Connect
 
----
-
-# 🤝 Let's Build Something Amazing Together!
-
-<p align="center">
-
-If you're looking for a passionate **.NET Backend Developer**, feel free to connect with me.
+I'm always interested in collaborating on backend projects, learning new technologies, and connecting with fellow developers.
 
 <a href="mailto:ziadyasser.dev@gmail.com">
-<img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ziad-yasser-6155b828b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://github.com/ziadyasserdev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-
-### ⭐ If you like my work, don't forget to star my repositories ⭐
-
-</p>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
