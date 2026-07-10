@@ -198,7 +198,6 @@ ASP.NET Core 8 • EF Core • SQL Server • Stripe
 
 <p align="center">
 <a href="https://github.com/ziadyasserdev/Assnani-ClinicManagementSystem-API">
-<img src="https://img.shields.io/badge/Repository-Coming%20Soon-orange?style=for-the-badge"/>
 </p>
 </td>
 </tr>
