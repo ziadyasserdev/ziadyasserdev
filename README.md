@@ -5,41 +5,55 @@
 ### 🚀 .NET Backend Developer | Building Scalable, Secure & High-Performance APIs
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20Backend%20Developer;Clean%20Architecture%20Enthusiast;REST%20API%20Developer;SignalR%20%7C%20Real-Time%20Applications;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=650&height=45&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20Backend%20Developer;Clean%20Architecture%20Enthusiast;REST%20API%20Developer;SignalR%20%7C%20Real-Time%20Applications;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=700&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💙 Passionate .NET Backend Developer focused on building scalable backend systems.
-- 🏗️ Experienced with ASP.NET Core, Clean Architecture, CQRS and RESTful APIs.
-- ⚡ Skilled in SignalR, JWT Authentication, Redis Cache and Hangfire.
-- 🌱 Currently learning Docker, Kubernetes, AWS and CI/CD.
-- 🎯 Interested in Software Architecture, Performance Optimization and Distributed Systems.
+- 💙 Passionate **.NET Backend Developer** focused on building scalable backend systems.
+- 🏗️ Experienced with **ASP.NET Core, Clean Architecture, CQRS, RESTful APIs and SignalR**.
+- ⚡ Skilled in **JWT Authentication, Redis Cache, Hangfire, Serilog and SQL Server**.
+- 🌱 Currently learning **Docker, Kubernetes, AWS and CI/CD**.
+- 🎯 Interested in **Software Architecture, Distributed Systems and Performance Optimization**.
 - ☕ Turning coffee into clean code.
 
 ---
 
-## 📫 Contact Me
+## 🌐 Connect With Me
 
-- 📍 Egypt
-- 📞 **+20 103 372 4845**
-- 📧 **ziadyasser.dev@gmail.com**
-- 💻 GitHub: **https://github.com/ziadyasserdev**
-- 💼 LinkedIn: **https://linkedin.com/in/ziad-yasser-6155b828b**
+<p align="center">
+  <a href="mailto:ziadyasser.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ziad-yasser-6155b828b">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ziadyasserdev">
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
+  </a>
+</p>
+
+<p align="center">
+  🇪🇬 Egypt &nbsp;&nbsp;•&nbsp;&nbsp;
+  📧 ziadyasser.dev@gmail.com &nbsp;&nbsp;•&nbsp;&nbsp;
+  📱 +20 103 372 4845
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet" />
@@ -56,7 +70,7 @@
 - Repository Pattern
 - Unit of Work
 
-### Databases & Caching
+### 🗄️ Databases & Caching
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,redis" />
@@ -65,7 +79,7 @@
 - SQL Server
 - Redis Cache
 
-### DevOps & Tools
+### 🚀 DevOps & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,postman" />
@@ -84,18 +98,18 @@
 
 A production-ready Library Management System built using Clean Architecture and CQRS.
 
-### Features
+### ✨ Features
 
 - Book Management
 - Reservation Queue System
 - Fine & Fine Payment System
-- Background Jobs using Hangfire
+- Background Jobs with Hangfire
 - JWT Authentication & Authorization
 - Email Notifications
 
 **Tech Stack**
 
-`ASP.NET Core 8` • `Clean Architecture` • `CQRS` • `EF Core` • `SQL Server` • `ASP.NET Identity` • `JWT` • `Hangfire` • `Serilog` • `FluentValidation` • `AutoMapper`
+`C#` • `ASP.NET Core 8` • `Clean Architecture` • `CQRS (MediatR)` • `Entity Framework Core` • `SQL Server` • `ASP.NET Identity` • `JWT Authentication` • `Hangfire` • `Serilog` • `FluentValidation` • `AutoMapper`
 
 ---
 
@@ -103,19 +117,19 @@ A production-ready Library Management System built using Clean Architecture and 
 
 A complete backend for an online learning platform.
 
-### Features
+### ✨ Features
 
 - Course & Lesson Management
 - Enrollment System
 - Video Progress Tracking
-- Redis Caching
+- Redis Cache
 - Cloud Storage
 - Rate Limiting
 - Authentication & Authorization
 
 **Tech Stack**
 
-`ASP.NET Core 8` • `Clean Architecture` • `CQRS` • `EF Core` • `SQL Server` • `ASP.NET Identity` • `JWT` • `Redis Cache` • `Cloud Storage` • `FluentValidation` • `AutoMapper`
+`C#` • `ASP.NET Core 8` • `Clean Architecture` • `CQRS (MediatR)` • `Entity Framework Core` • `SQL Server` • `ASP.NET Identity` • `JWT Authentication` • `Redis Cache` • `Cloud Storage` • `RESTful APIs` • `FluentValidation` • `AutoMapper`
 
 ---
 
@@ -123,10 +137,10 @@ A complete backend for an online learning platform.
 
 A real-time messaging application powered by SignalR.
 
-### Features
+### ✨ Features
 
-- Private Chat
-- Group Chat
+- Private Messaging
+- Group Chats
 - Online Presence
 - Real-Time Notifications
 - JWT Authentication
@@ -134,7 +148,7 @@ A real-time messaging application powered by SignalR.
 
 **Tech Stack**
 
-`ASP.NET Core 8` • `SignalR` • `Clean Architecture` • `CQRS` • `EF Core` • `SQL Server` • `ASP.NET Identity` • `JWT` • `Repository Pattern` • `Unit Of Work` • `FluentValidation`
+`C#` • `ASP.NET Core 8` • `SignalR` • `Clean Architecture` • `CQRS (MediatR)` • `Entity Framework Core` • `SQL Server` • `ASP.NET Identity` • `JWT Authentication` • `Repository Pattern` • `Unit of Work` • `RESTful APIs` • `FluentValidation`
 
 ---
 
@@ -142,18 +156,18 @@ A real-time messaging application powered by SignalR.
 
 A complete clinic management system developed as a graduation project.
 
-### Features
+### ✨ Features
 
 - Appointment Scheduling
 - Electronic Medical Records
 - Prescription Management
-- Stripe Payment Integration
+- Stripe Payment Gateway
 - Notifications
 - Role-Based Authorization
 
 **Tech Stack**
 
-`ASP.NET Core 8` • `Clean Architecture` • `CQRS` • `EF Core` • `SQL Server` • `ASP.NET Identity` • `JWT` • `Stripe` • `Serilog` • `FluentValidation` • `AutoMapper`
+`C#` • `ASP.NET Core 8` • `Clean Architecture` • `CQRS (MediatR)` • `Entity Framework Core` • `SQL Server` • `ASP.NET Identity` • `JWT Authentication` • `Stripe Payment Gateway` • `Serilog` • `FluentValidation` • `AutoMapper` • `SMTP Email Services`
 
 ---
 
@@ -175,8 +189,8 @@ A complete clinic management system developed as a graduation project.
 
 # 👀 Profile Views
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=ziadyasserdev&label=Profile%20Views&color=0e75b6&style=flat"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ziadyasserdev&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
