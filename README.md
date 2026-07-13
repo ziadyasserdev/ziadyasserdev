@@ -9,8 +9,6 @@ Backend .NET Developer • ASP.NET Core • Clean Architecture • SignalR
 </h3>
 
 
-<!-- Connect With Me -->
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -24,7 +22,7 @@ Backend .NET Developer • ASP.NET Core • Clean Architecture • SignalR
 </a>
 
 <a href="mailto:ziadyasser.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ziadyasser.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-ziadyasser.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/share/1CzMnJYpZ8/">
@@ -35,7 +33,7 @@ Backend .NET Developer • ASP.NET Core • Clean Architecture • SignalR
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=.NET+Backend+Developer;ASP.NET+Core+Developer;Clean+Architecture+Enthusiast;RESTful+API+Developer;SignalR+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=.NET+Backend+Developer;ASP.NET+Core+Developer;Clean+Architecture+Enthusiast;RESTful+API+Developer;SignalR+Developer;Always+Learning"/>
 </p>
 
 
@@ -48,7 +46,7 @@ Backend .NET Developer • ASP.NET Core • Clean Architecture • SignalR
 
 <br>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 
 ```csharp
@@ -82,22 +80,28 @@ public class ZeyadYasser
     public string Goal =>
         "Building scalable backend systems that solve real-world problems.";
 }
+<br>
+
+# 🚀 Featured Projects
+
+
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
 <h3 align="center">📚 Library Management System</h3>
 
-<div align="center">
-
+<p align="center">
 Production-ready Library Management System built using Clean Architecture and CQRS.
+</p>
 
-<br><br>
+<p align="center">
 
 <b>✨ Highlights</b>
 
-<br>
+<br><br>
 
 📖 Book & Author Management  
 <br>
@@ -111,7 +115,7 @@ Production-ready Library Management System built using Clean Architecture and CQ
 <br>
 🔐 JWT Authentication  
 
-<br>
+<br><br>
 
 <b>🛠️ Tech Stack</b>
 
@@ -125,7 +129,7 @@ ASP.NET Core 8 • EF Core • SQL Server • CQRS • Hangfire
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 </td>
 
@@ -134,7 +138,7 @@ ASP.NET Core 8 • EF Core • SQL Server • CQRS • Hangfire
 
 <h3 align="center">🎓 E-Learning Platform API</h3>
 
-<div align="center">
+<p align="center">
 
 Modern Learning Platform API designed with Clean Architecture.
 
@@ -142,7 +146,7 @@ Modern Learning Platform API designed with Clean Architecture.
 
 <b>✨ Highlights</b>
 
-<br>
+<br><br>
 
 📚 Course Management  
 <br>
@@ -156,7 +160,7 @@ Modern Learning Platform API designed with Clean Architecture.
 <br>
 🚦 Rate Limiting  
 
-<br>
+<br><br>
 
 <b>🛠️ Tech Stack</b>
 
@@ -170,11 +174,12 @@ ASP.NET Core 8 • Redis • EF Core • SQL Server
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 </td>
 
 </tr>
+
 
 
 <tr>
@@ -184,7 +189,7 @@ ASP.NET Core 8 • Redis • EF Core • SQL Server
 
 <h3 align="center">💬 Real-Time Chat API</h3>
 
-<div align="center">
+<p align="center">
 
 Real-Time Chat Application powered by SignalR.
 
@@ -192,7 +197,7 @@ Real-Time Chat Application powered by SignalR.
 
 <b>✨ Highlights</b>
 
-<br>
+<br><br>
 
 💬 Private Messaging  
 <br>
@@ -206,7 +211,7 @@ Real-Time Chat Application powered by SignalR.
 <br>
 🔐 JWT Authentication  
 
-<br>
+<br><br>
 
 <b>🛠️ Tech Stack</b>
 
@@ -220,7 +225,7 @@ ASP.NET Core 8 • SignalR • EF Core • SQL Server
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 </td>
 
@@ -229,7 +234,7 @@ ASP.NET Core 8 • SignalR • EF Core • SQL Server
 
 <h3 align="center">🏥 Assnani Clinic API</h3>
 
-<div align="center">
+<p align="center">
 
 Clinic Management System developed as a Graduation Project.
 
@@ -237,7 +242,7 @@ Clinic Management System developed as a Graduation Project.
 
 <b>✨ Highlights</b>
 
-<br>
+<br><br>
 
 👨‍⚕️ Appointment Scheduling  
 <br>
@@ -249,7 +254,7 @@ Clinic Management System developed as a Graduation Project.
 <br>
 🔐 Role-Based Authorization  
 
-<br>
+<br><br>
 
 <b>🛠️ Tech Stack</b>
 
@@ -263,44 +268,91 @@ ASP.NET Core 8 • EF Core • SQL Server • Stripe
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 </td>
 
+
 </tr>
+
 
 </table>
 
 
 <br>
+<br>
+
+# 🛠️ Tech Stack
 
 
-# 💼 Core Technologies
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+<img src="https://skillicons.dev/icons?i=sql"/>
+
+</p>
+
+
+## Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+<img src="https://skillicons.dev/icons?i=redis"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
 
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/SignalR-7A3FF2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CQRS-MediatR-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hangfire-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CQRS-MediatR-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SignalR-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hangfire-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FluentValidation-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AutoMapper-orange?style=for-the-badge"/>
+
+</p>
+
+
+## DevOps & Tools
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
 
 </p>
 
 
 <br>
 
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmY2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-<br>
 
 # 💼 Professional Profile
 
@@ -312,26 +364,13 @@ ASP.NET Core 8 • EF Core • SQL Server • Stripe
 </p>
 
 
-<p align="center">
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Download-Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-
-</p>
-
-
 <table align="center">
 
 <tr>
 
+
 <td align="center" width="33%">
+
 
 🚀
 
@@ -339,17 +378,29 @@ ASP.NET Core 8 • EF Core • SQL Server • Stripe
 
 <b>Backend Development</b>
 
+<br><br>
+
+ASP.NET Core
+
 <br>
 
-ASP.NET Core  
-REST APIs  
-SignalR  
-EF Core
+REST APIs
+
+<br>
+
+SignalR
+
+<br>
+
+Entity Framework Core
+
 
 </td>
 
 
+
 <td align="center" width="33%">
+
 
 🏗️
 
@@ -357,17 +408,29 @@ EF Core
 
 <b>Architecture</b>
 
+<br><br>
+
+Clean Architecture
+
 <br>
 
-Clean Architecture  
-CQRS  
-DDD Concepts  
+CQRS
+
+<br>
+
+DDD Concepts
+
+<br>
+
 Design Patterns
+
 
 </td>
 
 
+
 <td align="center" width="33%">
+
 
 ☁️
 
@@ -375,12 +438,22 @@ Design Patterns
 
 <b>Engineering</b>
 
+<br><br>
+
+Docker
+
 <br>
 
-Docker  
-Cloud  
-CI/CD  
+Cloud
+
+<br>
+
+CI/CD
+
+<br>
+
 Distributed Systems
+
 
 </td>
 
@@ -388,6 +461,10 @@ Distributed Systems
 </tr>
 
 </table>
+
+
+<br>
+<br>
 
 # 📊 GitHub Analytics
 
@@ -473,32 +550,61 @@ Distributed Systems
 
 <p align="center">
 
+
 <a href="mailto:ziadyasser.dev@gmail.com">
+
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 
 <a href="https://www.linkedin.com/in/ziad-yasser-6155b828b">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 
 <a href="https://github.com/ziadyasserdev">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
+
+<a href="https://wa.me/201033724845">
+
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+</a>
+
 
 </p>
 
 
+<br>
+
+
 <p align="center">
 
-📧 ziadyasser.dev@gmail.com  
+📧 ziadyasser.dev@gmail.com
+
 &nbsp; | &nbsp;
+
+📱 01033724845
+
+&nbsp; | &nbsp;
+
 📍 Egypt
 
 </p>
 
 
+<br>
+
+
 <h3 align="center">
+
 ⭐ Thanks for visiting my profile! ⭐
+
 </h3>
