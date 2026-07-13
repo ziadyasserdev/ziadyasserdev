@@ -44,7 +44,7 @@ Backend .NET Developer • ASP.NET Core • Clean Architecture • SignalR
 
 
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ziadyasserdev&label=Profile%20Views&color=38BDF8&style=flat&labelColor=0F172A"/>
 
@@ -52,7 +52,7 @@ Backend .NET Developer • ASP.NET Core • Clean Architecture • SignalR
 
 <img src="https://img.shields.io/github/stars/ziadyasserdev?style=flat&logo=github&color=38BDF8&labelColor=0F172A"/>
 
-</p>
+</p> -->
 
 
 <br>
