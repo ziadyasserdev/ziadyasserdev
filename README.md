@@ -61,8 +61,6 @@ Hi 👋, I'm Zeyad Yasser
 
 
 <br>
-
-
 ## 👨‍💻 About Me
 
 
@@ -110,13 +108,9 @@ public class ZeyadYasser
     public string Goal =>
         "Building scalable, maintainable backend systems that solve real-world problems.";
 }
-<br>
-
 <h2 align="center">
 🚀 Featured Projects
 </h2>
-
-
 <div align="center">
 
 
@@ -278,7 +272,7 @@ Production-ready real-time communication platform powered by SignalR.
 <br>
 📱 Multi-device Connections
 <br>
-📸 WhatsApp-like Stories
+📸 Stories Feature
 
 
 <br><br>
@@ -384,7 +378,6 @@ ASP.NET Core 8 • EF Core • SQL Server • Stripe
 
 <br>
 <br>
-
 <h2 align="center">
 🛠️ Tech Stack
 </h2>
@@ -478,24 +471,19 @@ ASP.NET Core 8 • EF Core • SQL Server • Stripe
 
 <br>
 <br>
-
 <h2 align="center">
 📊 GitHub Analytics
 </h2>
-
 
 <p align="center">
 
 <img height="170"
 src="https://github-readme-stats.vercel.app/api?username=ziadyasserdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-
 <img height="170"
 src="https://streak-stats.demolab.com?user=ziadyasserdev&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-
 
 <p align="center">
 
@@ -504,15 +492,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadyasserde
 
 </p>
 
-
 <br>
-
-
 
 <h2 align="center">
 🏆 GitHub Achievements
 </h2>
-
 
 <p align="center">
 
@@ -520,16 +504,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadyasserde
 
 </p>
 
-
-
 <br>
-
-
-
 <h2 align="center">
 📈 Contribution Graph
 </h2>
-
+<h2 align="center">
+📈 GitHub Contribution Graph
+</h2>
 
 <p align="center">
 
@@ -537,16 +518,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadyasserde
 
 </p>
 
-
-
 <br>
-
-
 
 <h2 align="center">
 🐍 Contribution Snake
 </h2>
-
 
 <p align="center">
 
@@ -554,101 +530,70 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadyasserde
 
 </p>
 
-
-
 <br>
 
-
-
 <h2 align="center">
-💬 Developer Quote
+💬 Favorite Quote
 </h2>
-
 
 <p align="center">
 
-<em>
+<i>
 
-"I don't just write code — I build scalable, maintainable systems that solve real-world problems."
+"Code is more than making things work — it's about building software that lasts."
 
-</em>
+</i>
 
 </p>
 
-
-
 <br>
-
-
 
 <h2 align="center">
 🌐 Let's Connect
 </h2>
 
-
 <p align="center">
-
 
 <a href="mailto:ziadyasser.dev@gmail.com">
-
 <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/>
-
 </a>
-
-
 
 <a href="https://www.linkedin.com/in/ziad-yasser-6155b828b">
-
 <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/>
-
 </a>
-
-
 
 <a href="https://github.com/ziadyasserdev">
-
 <img src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/>
-
 </a>
-
-
 
 <a href="https://wa.me/201033724845">
-
 <img src="https://img.shields.io/badge/WhatsApp-38BDF8?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0F172A"/>
-
 </a>
 
-
 </p>
-
-
-
-<br>
-
-
 
 <p align="center">
 
-📧 ziadyasser.dev@gmail.com
+📧 <b>ziadyasser.dev@gmail.com</b>
 
-&nbsp;&nbsp; | &nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
-📱 01033724845
+📱 <b>+20 103 372 4845</b>
 
-&nbsp;&nbsp; | &nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
-📍 Egypt
+📍 <b>Egypt</b>
 
 </p>
 
-
-
 <br>
 
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E293B,100:38BDF8"/>
+
+</p>
 
 <h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
+⭐ Thanks for visiting my profile ⭐
 </h3>
